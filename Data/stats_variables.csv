@@ -1,0 +1,81 @@
+﻿VariableLong,VariableShort,Description,Phase,Category
+Height,PLAYER_HEIGHT_INCHES,"Height, in inches",-,Height
+Effective FG,EFG,Effective field goal shooting,Offense,Efficiency
+Catch Shoot FGPCT,CATCH_SHOOT_FG_PCT,Shooting percentage from catch and shoot attempts,Offense,Efficiency
+Drive FGPCT,DRIVE_FG_PCT,Shooting percentage from drives,Offense,Efficiency
+Elbow FGPCT,ELBOW_TOUCH_FG_PCT,Shooting percentage from touches at the elbow,Offense,Efficiency
+Paint FGPCT,PAINT_TOUCH_FG_PCT,Shooting percentage from touches in the paint,Offense,Efficiency
+FGPCT,PCT_FGM,Shooting percentage across the floor,Offense,Efficiency
+Post FGPCT,POST_TOUCH_FG_PCT,Shooting percentage from the post,Offense,Efficiency
+Pull Up FGPCT,PULL_UP_FG_PCT,Shooting percentage from pull up shots,Offense,Efficiency
+Points per Touch,PTS_PER_TOUCH,Points scored per touch,Offense,Efficiency
+Loose Ball Off,OFF_LOOSE_BALLS_RECOVERED,Loose balls recovered on offense per 36 minutes,Offense,Hustle
+Speed Off,AVG_SPEED_OFF,Average speed on offense per game,Offense,Movement
+Distance Off,DIST_MILES_OFF,Miles run while on offense per game,Offense,Movement
+Drives,DRIVES,Drives to the basket per 36 minutes,Offense,Movement
+Screen Assists,SCREEN_ASSISTS,Screens that lead to made FG by teammate per 36 minutes,Offense,Movement
+Assists,AST,Assists per 36 minutes,Offense,Passing
+Assists on 2s,PCT_AST_2PM,Percentage of assists earned from two point shots,Offense,Passing
+Assists on 3s,PCT_AST_3PM,Percentage of assists earned from three point shots,Offense,Passing
+Assists to FT,FT_AST,Free throws for team created by pass from player per 36 minutes,Offense,Passing
+Passes Made,PASSES_MADE,Passes made per 36 minutes,Offense,Passing
+Passes Received,PASSES_RECEIVED,Passes received from teammates per 36 minutes,Offense,Passing
+Potential Assists,POTENTIAL_AST,Potential assists from passes per 36 minutes,Offense,Passing
+Secondary Assists,SECONDARY_AST,Passes to teammate who earned an assist per 36 minutes,Offense,Passing
+Average Seconds Per Touch,AVG_SEC_PER_TOUCH,Average seconds per touch,Offense,Possession
+Elbow Touches,ELBOW_TOUCHES,Touches at the elbow per 36 minutes,Offense,Possession
+Frontcourt Touches,FRONT_CT_TOUCHES,Touches in the frontcourt per 36 minutes,Offense,Possession
+Pace,PACE,Possessions per 48 minutes,Offense,Possession
+Post Touches,POST_TOUCHES,Touches at the post per 36 minutes,Offense,Possession
+Time of Possession,TIME_OF_POSS_36,Time with possession per 36 minutes,Offense,Possession
+Touches,TOUCHES,Total touches per 36 minutes,Offense,Possession
+Turnovers,TOV,Turnovers per 36 minutes,Offense,Possession
+Boxouts on Off,OFF_BOXOUTS,Box outs on offense per 36 minutes,Offense,Rebounding
+Rebounds on Offense,OREB,Offensive rebounds per 36 minutes,Offense,Rebounding
+Points from Catch and Shoot,CATCH_SHOOT_PTS,Points per 36 minutes from catch and shoot,Offense,Shooting
+Points from Drives,DRIVE_PTS,Points per 36 minutes from driving,Offense,Shooting
+Points from Elbow,ELBOW_TOUCH_PTS,Points per 36 minutes from catching the ball at the elbow,Offense,Shooting
+Points from Three,FG3A,Three pointers attempted per 36 minutes,Offense,Shooting
+Free Throw Attempts,FTA,Free throws attempted per 36 minutes,Offense,Shooting
+Free Throws : Field Goal Attempts,FTR,Ratio of free throws to field goal attempts,Offense,Shooting
+Points from ISO,ISO_PTS,Points per 36 minutes from ISO (isolation) plays,Offense,Shooting
+Points from Paint,PAINT_TOUCH_PTS,Points per 36 minutes from catching the ball in the paint,Offense,Shooting
+Fouls Drawn,PFD,Personal fouls drawn per 36 minutes,Offense,Shooting
+Points from Pick n Roll Ball Handling,PRBH_PTS,Points per 36 minutes from being pick-n-roll ball-handler,Offense,Shooting
+Points from Pick n Roll Roll Man,PRRM_PTS,Points per 36 minutes from being roll man in pick-n-roll,Offense,Shooting
+Points,PTS,Points scored per 36 minutes,Offense,Shooting
+Points from Second Chance,PTS_2ND_CHANCE,Points scored off second chance possession per 36 minutes,Offense,Shooting
+Points from Fast Break,PTS_FB,Points scored per 36 minutes from fast breaks,Offense,Shooting
+Points from Turnovers,PTS_OFF_TOV,Points scored off turnovers per 36 minutes,Offense,Shooting
+Points from Paint,PTS_PAINT,Points per 36 minutes earned in the paint,Offense,Shooting
+Points from Pull Up Jumpers,PULL_UP_PTS,Points per 36 minutes from pull up jumpshots,Offense,Shooting
+Points from Spot Up Jumpers,SU_PTS,Points per 36 minutes from spot up shooting,Offense,Shooting
+% of Shots from 2,PCT_FGA_2PT,Percentage of field goal attempts from two point shots,Offense,Shooting
+% of Shots from 3,PCT_FGA_3PT,Percentage of field goal attempts from three point shots,Offense,Shooting
+% of Points from FT,PCT_PTS_FT,Percentage of total points earned from free throws,Offense,Shooting
+% of Points from Turnovers,PCT_PTS_OFF_TOV,Percentage of total points earned off of turnovers,Offense,Shooting
+% of Points from Paint,PCT_PTS_PAINT,Percentage of total points earned in the paint,Offense,Shooting
+% of Points from Unassisted 2s,PCT_UAST_2PM,Percentage of two point shots made by player that were unassisted,Offense,Shooting
+% of Points from Unassisted 3s,PCT_UAST_3PM,Percentage of three point shots made by player that were unassisted,Offense,Shooting
+Blocks,BLK,Blocks per 36 minutes,Defense,Blocks
+Blocked Attempts,BLKA,Blocked field goal attempts per 36 minutes,Defense,Blocks
+Contested 2s,CONTESTED_SHOTS_2PT,"Number of times closes out, raises hand to contest a 2pt shot per 36 minutes",Defense,Contesting
+Contested 3s,CONTESTED_SHOTS_3PT,"Number of times closes out, raises hand to contest a 3pt shot per 36 minutes",Defense,Contesting
+Opponent FGA at Rim,D_FGA,Field goals attempted while player was defending the rim per 36 minutes,Defense,Contesting
+Opponent FGM at Rim,D_FGM,Field goals made while player was defending the rim per 36 minutes,Defense,Contesting
+Charges Drawn,CHARGES_DRAWN,Charges drawn per 36 minutes,Defense,Fouls
+Personal Fouls,PF,Personal fouls per 36 minutes,Defense,Fouls
+Loose Ball Def,DEF_LOOSE_BALLS_RECOVERED,Loose balls recovered on defense per 36 minutes,Defense,Hustle
+Deflections,DEFLECTIONS,Number of times gets a hand on the ball (non-shot attempt) per 36 minutes,Defense,Hustle
+Steals,STL,Steals per 36 minutes,Defense,Hustle
+Speed Def,AVG_SPEED_DEF,Average speed on defense per game,Defense,Movement
+Distance Def,DIST_MILES_DEF,Miles run while on defense per game,Defense,Movement
+Opponent FGPCT at Rim,D_FG_PCT,Shooting percentage of opponent while player was defending the rim,Defense,Rebounding
+Boxouts on Def,DEF_BOXOUTS,Box outs on defense per 36 minutes,Defense,Rebounding
+Rebounds on Defense,DREB,Defensive rebounds per 36 minutes,Defense,Rebounding
+Double-Doubles,DD2,Number of double-doubles for the season,Both,Efficiency
+Triple-Doubles,TD3,Number of triple doubles for the season,Both,Efficiency
+Loose Ball Total,LOOSE_BALLS_RECOVERED,Loose balls recovered per 36 minutes,Both,Hustle
+Rebound Distance from Rim,AVG_REB_DIST,Average distance from the rim when gathering a rebound,Both,Rebounding
+Chances at Easy Rebound,REB_CHANCES,Number of times player was closest to ball during a rebound per 36 minutes,Both,Rebounding
+Minutes Per Game,MPG,Average minutes played per game,Both,Usage
