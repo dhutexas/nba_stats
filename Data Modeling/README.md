@@ -1,6 +1,10 @@
-# NBA_Positions
+# Modeling NBA Data
+
+This repository contains different models of NBA data. Data for each model are stored in the `Data` folder and the code required to run each model can be found in the current folder. Individual modeling projects, and their details, are described below.
+
+# What’s Your Basketball Personality?
+#### Using Machine Learning to Redefine NBA Positions
+
 Data and model files from Gaussian Mixture Model analysis of NBA player statistics. Related article available at https://link.medium.com/Tmqi4A16D9
 
-Included in this repository are:
-1. mod10fit.Rds - the GMM model (fit with tidyLPA - https://data-edu.github.io/tidyLPA/) - useful for predicting class membership
-2. ModelEstimatesByClass.csv - the estimated mean and standard error for each variable, by class, estimated by the model
+
