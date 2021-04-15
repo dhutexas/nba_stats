@@ -10,5 +10,6 @@ Usage
 -----------------------
 
 * Explore the `Data` folder to see the available datasets.
+* Explore the `Data Mining` folder to find code to gather the data.
 * Check out the `Data Modeling` folder to see current projects, some of which have been featured in publications on Medium.com.
 
